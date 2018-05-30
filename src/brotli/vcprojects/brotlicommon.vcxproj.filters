@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="G:\Sources\brotli\brotli\c\common\dictionary.c" />
+    <ClCompile Include="G:\Sources\brotli\brotli\c\common\transform.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E6385771-72BC-3436-A915-2C33802BF2D1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
